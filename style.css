@@ -1,0 +1,60 @@
+
+h1{
+    text-align: center;
+    color: green;
+
+}
+table{
+    background-color: blanchedalmond;
+    text-align: center;
+    
+    align-items: center;
+    margin: auto;
+    width: 300px;
+}
+.head{
+    background-color: rgb(235, 60, 86);
+    color: antiquewhite;
+}
+h3{
+    text-align: center;
+    color: rgb(235, 60, 86);
+
+}
+.cartContainer{
+    background-color: rgb(255, 226, 214);
+    margin: auto;
+    align-items: center;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    margin-right: 520px;
+    box-sizing: content-box;
+    width: 310px;
+}
+.heading{
+    
+    flex-direction: row;
+}
+.totalPrice{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: lightseagreen;
+    width: 310px;
+    margin-right: 520px;
+    height: 50px;
+    font-weight: bold;
+}
+.remove{
+    background-color: red;
+    color: antiquewhite;
+    border: solid red;
+    border-radius: 10px;
+}
+td button{
+    background-color: lightgreen;
+    border: solid 1px green;
+}
